@@ -46,8 +46,8 @@ Baixe a versão mais recente na aba [Releases](https://github.com/YusukyOficial/
 
 ## 🛠️ Instalação
 
-1. Faça o download do executável ou dos arquivos.
-2. Execute o `ShowKeyPlus.exe` (ou equivalente).
+1. Faça o download do executável.
+2. Execute o `ShowKeyPlus.exe`.
 3. Permita permissões de administrador, se solicitado, para leitura da chave do sistema.
 
 ---
