@@ -1,6 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png" alt="ShowKeyPlus Banner">
 </p>
+-->
 
 <h1 align="center">🗝️ ShowKeyPlus</h1>
 
