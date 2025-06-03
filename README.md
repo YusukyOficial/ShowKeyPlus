@@ -67,6 +67,5 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](
 
 ---
 
-<p align="center">
-  Feito com 💚 por [YusukyOficial](https://github.com/YusukyOficial)
-</p>
+Feito com 💚 por [YusukyOficial](https://github.com/YusukyOficial)
+
